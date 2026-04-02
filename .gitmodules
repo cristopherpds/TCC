@@ -1,3 +1,6 @@
 [submodule "tcc-ossn-app"]
 	path = tcc-ossn-app
 	url = https://github.com/cristopherpds/tcc-ossn-app.git
+[submodule "tcc-ops"]
+	path = tcc-ops
+	url = https://github.com/cristopherpds/tcc-ops.git
