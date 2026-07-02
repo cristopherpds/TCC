@@ -152,4 +152,4 @@ ferramentas de observabilidade e monitoramento.
 
 - **Cristopher J. Paiva da Silva** — autor · UTEC / Instituto Tecnológico Regional Norte
 - **Vinícius Bittencourt da Silva** — orientador · IFSul, Campus Sant'Ana do Livramento
-- **Rafael Machado Amorim** — coorientador · IFSul, Campus Sant'Ana do Livramento
+- **Rafael Machado Amorim** — coorientador · Unipampa, Campus Sant'Ana do Livramento
